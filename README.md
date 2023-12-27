@@ -11,3 +11,7 @@ Now we are ready to commit the changes:
 `git commit -m "This is my initial change"`
 
 Now we are ready to push our changes to remote (remote is github.com)
+`git push origin main` 
+
+but when you start working on new branches:
+`git push origin <branch-name>`
